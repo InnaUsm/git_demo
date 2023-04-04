@@ -16,3 +16,5 @@
 # # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 def add(a, b):
     return a + b
+def mult(a, b):
+    return a*b
